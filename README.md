@@ -1,4 +1,7 @@
 # 11decryptor-
+
+https://www.youtube.com/watch?v=-hno5lcLu1s
+
 Dot11decrypt requires a wireless interface in monitor mode .
 
 Appropriate information required to decrypt the encrypted traffic.
